@@ -17,4 +17,3 @@ function solve(n){
     }
     console.log('</div>');
 }
-solve(3)
