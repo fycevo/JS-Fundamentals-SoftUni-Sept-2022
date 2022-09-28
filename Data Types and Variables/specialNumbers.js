@@ -10,6 +10,5 @@ function solve(n){
         } else{
             console.log(`${i} -> False`);
         }
-        sum = 0;
     }
 }
