@@ -1,5 +1,4 @@
 function cardGame(input){
-    //(S -> 4, H-> 3, D -> 2, C -> 1).
     let typeOfCards={
         'S':4,
         'H':3,
